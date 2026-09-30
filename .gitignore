@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+
+# Private to this Mac, not for the public repo
+CLAUDE.md
+memory/
